@@ -37,4 +37,6 @@ I am a French :fr: passionate of IT Security and coding. I'm also in [Gitlab](ht
 ## ⭐ GitHub Stats
 [![captincook-del's github stats](https://github-readme-stats.vercel.app/api?username=captaincook-del&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<img alt="captaincook-del's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=captaincook-del&theme=dark" />
+
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=captaincook-del&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-s)
