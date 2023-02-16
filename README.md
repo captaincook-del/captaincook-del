@@ -10,7 +10,6 @@
 
 - 📄 Know about my experiences [sanchioni.fr](sanchioni.fr)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
