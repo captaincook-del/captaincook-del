@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on
   -  [StrangeAlbatros project](https://github.com/StrangeAlbatros)
-  -  [StrangeBear project](https://github.com/StrangeBear)
 
 - 🌱 I’m currently learning **cyber threat intelligence software & blue team software**
 
